@@ -1,1 +1,1 @@
-# TerraformLoadBalancing
+This Project will create applications in Private Instances within a VPC and using the Application loadbalancers the loads are evenly distributed across the applications in different servers thus reducing the load in one server!!!!  
